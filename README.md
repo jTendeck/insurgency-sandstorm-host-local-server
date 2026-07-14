@@ -1,4 +1,4 @@
-# insurgency-sandstorm-host-local-server
+# Host Local Insurgency Sandstorm Server
 
 ## Resources
 
