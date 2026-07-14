@@ -20,12 +20,7 @@ Note that this is just an abridged of the Setup Guide above. For more informatio
 
 After install, a folder called `sandstorm_server` is created located inside `<steamcmd-root-directory>/steamapps/common`
 
-- Navigate to `sandstorm_server` and create a file there called `start.bat`. Paste in these contents:
-
-```txt
-InsurgencyServer.exe Oilfield?Scenario=Scenario_Refinery_Checkpoint_Security?MaxPlayers=8 -mutators=AllYouCanEat -motd="i love chips" -Port=27102 -QueryPort=27131 -log -hostname="joostins server" -EnableCheats
-
-```
+- Navigate to `sandstorm_server` and create a file called `start.bat`. Paste in the contents of [start.bat](start.bat).
 
 ### Adding Server Admins
 
