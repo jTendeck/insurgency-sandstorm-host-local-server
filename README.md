@@ -7,7 +7,7 @@
 
 ## Steps
 
-Note that this is just an abridged of the Setup Guide above. For more information including different server configuration options, check out that link.
+Note that this is just an abridged of the Setup Guide above. For more information including different server configuration options, mutators, setting up mapcycles, check out that link.
 
 ### Server Setup
 
@@ -54,4 +54,17 @@ Open up Insurgency Sandstorm go to Play > Community Servers > Connect To IP.
 If you are hosting, you can enter in: `127.0.0.1:27102` (if no password was provided during server creating, leave the password field blank when prompted)
 
 Other people connecting to the server should connect to the Radmin VPN IP address at the top of the Radmin window, followed by `xxx.xxx.xxx.xxx:27102`
+
+## Appendix
+
+### Co-op Game Mode Descriptions
+
+- Checkpoint
+	- Capture objects one at a time while moving through an area
+- Outpost
+	- Hold off against waves of enemies
+	- After waves, spend money on new weapons and upgrades.
+- Survival
+	- Secure points until extract comes
+	- Get new weapons after securing points
 
