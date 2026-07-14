@@ -1,0 +1,1 @@
+InsurgencyServer.exe Oilfield?Scenario=Scenario_Refinery_Checkpoint_Security?MaxPlayers=8 -mutators=AllYouCanEat -motd="i love chips" -Port=27102 -QueryPort=27131 -log -hostname="joostins server" -EnableCheats
