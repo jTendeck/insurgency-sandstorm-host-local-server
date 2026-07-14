@@ -20,7 +20,7 @@ Note that this is just an abridged of the Setup Guide above. For more informatio
 
 After install, a folder called `sandstorm_server` is created located inside `<steamcmd-root-directory>/steamapps/common`
 
-- Navigate to `sandstorm_server` and create a file called `start.bat`. Paste in the contents of [start.bat](start.bat).
+- Navigate to `sandstorm_server` and create a file called `start.bat`. Paste in the contents of [start.bat](start.bat)
 
 ### Adding Server Admins
 
@@ -51,7 +51,7 @@ The person hosting the server will need to open Radmin VPN, and select `Create N
 
 Open up Insurgency Sandstorm go to Play > Community Servers > Connect To IP.
 
-If you are hosting, you can enter in: `127.0.0.1:27102` (if no password was provided during server creating, leave the password field blank when prompted)
+If you are hosting, you can enter in: `127.0.0.1:27102` (if no password was provided during server creation, leave the password field blank when prompted)
 
 Other people connecting to the server should connect to the Radmin VPN IP address at the top of the Radmin window, followed by `xxx.xxx.xxx.xxx:27102`
 
