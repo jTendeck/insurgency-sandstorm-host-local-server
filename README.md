@@ -7,7 +7,7 @@
 
 ## Steps
 
-Note that this is just an abridged of the Setup Guide above. For more information, check out that link.
+Note that this is just an abridged of the Setup Guide above. For more information including different server configuration options, check out that link.
 
 ### Server Setup
 
