@@ -33,9 +33,9 @@ The admin panel can be opened in game by pressing `-` on the numpad.
 
 ### Game Configuration
 
-To make changes to the rounds (round duration, bot difficulty, bot amount, etc.) you need to add another file:
+To make changes to the rounds (round duration, bot difficulty, bot amount, etc.) you need to add a `Game.ini` file:
 
-- Navigate to `Insurgency/Saved/Config/WindowsServer/Game.ini`. Again create the path/file if they do not exist. Paste in the contents of [Game.ini](Game.ini)
+- Navigate to `sandstorm_server/Insurgency/Saved/Config/WindowsServer/Game.ini`. Again create the path/file if they do not exist. Paste in the contents of [Game.ini](Game.ini)
 
 ## Network
 
